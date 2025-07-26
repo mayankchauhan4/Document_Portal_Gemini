@@ -1,2 +1,6 @@
 conda activate C:\Users\996ma\Python_base\GenAI\Document_portal\venv
-git remote add origin https://github.com/YOUR-USERNAME/REPO-NAME.git
+
+https://github.com/sunnysavita10/document_portal
+
+
+gorkapikey='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'
