@@ -4,6 +4,6 @@ document_portal.egg-info
 venv/
 __pycache__/
 logs/
+session*/
+*.log
 *.pyc
-test.py
-data/
