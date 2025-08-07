@@ -34,7 +34,7 @@ git commit -m "<write your commit message>"
 git push
 
 # Cloning the repository
-git clone https://github.com/sunnysavita10/document_portal.git
+https://github.com/mayankchauhan4/Document_portal.git
 ```
 ## Minimum Requirements for the Project
 
