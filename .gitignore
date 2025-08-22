@@ -4,7 +4,7 @@ document_portal.egg-info
 venv/
 __pycache__/
 logs/
-session*/
-cmd.txt
-*.log
 *.pyc
+faiss_index/
+main_archive/
+data/
