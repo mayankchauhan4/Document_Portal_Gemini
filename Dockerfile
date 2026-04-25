@@ -19,6 +19,12 @@ COPY .env .
 # Copy project files
 COPY . .
 
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    gcc \
+    libpq-dev \
+    && rm -rf /var/lib/apt/lists/*
+    
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
